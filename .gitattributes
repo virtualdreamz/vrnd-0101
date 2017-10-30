@@ -1,7 +1,7 @@
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
-#* text=auto
+* text=auto
 
 ###############################################################################
 # Set default behavior for command prompt diff.
@@ -63,7 +63,7 @@
 #*.RTF   diff=astextplain
 
 ################################################################################
-# 3D models supported by UNITY
+# Filetypes supported by UNITY
 #
 #
 #
@@ -120,7 +120,7 @@
 #
 # Changes in Unity-generated YAML files are usually not actionable. You can 
 # reduce the clutter they introduce, while preserving the ability to review them 
-# as needed, by automatically collapsing the diffs on GitHub using the following.
+# as needed, by automatically collapsing the diffs on GitHub using the following
 ################################################################################
 *.asset linguist-generated
 *.mat linguist-generated

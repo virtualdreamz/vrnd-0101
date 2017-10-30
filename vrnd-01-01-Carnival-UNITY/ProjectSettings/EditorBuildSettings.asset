@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/UdacityVR/Scenes/Carnival.unity
+    guid: 6ee75b0167173ce48a3ca27b0baa8235
+  - enabled: 1
+    path: Assets/UdacityVR/Scenes/Carnival-00-START.unity
+    guid: 42f766682cc9f6b4d9f7943e82b55f6d
+  - enabled: 1
+    path: Assets/UdacityVR/Scenes/Carnival-001.unity
+    guid: 626adfe7aa7c38943a14b46de355c8b6
